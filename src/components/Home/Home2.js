@@ -19,7 +19,7 @@ function Home2() {
                         I'LL <span className="home-about-section"> INTRODUCE </span> MYSELF!!
                     </h1>
                     <p className="home-about-body">
-                        I'm an coding enthusiast, working on my skills in coding and designing,
+                        I'm a coding enthusiast, working on my skills in coding and designing,
                         to become a web developer.
                         <br/>
                         <br/> I am good in basics like
