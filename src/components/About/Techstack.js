@@ -8,6 +8,7 @@ import {
   DiMongodb,
   DiPython,
   DiPhp,
+  DiWordpress,
   DiJava,
 } from "react-icons/di";
 import {
@@ -37,6 +38,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiPhp />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiWordpress /> {/* WordPress Icon */}
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJava />
